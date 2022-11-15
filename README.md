@@ -1,0 +1,1 @@
+[![Build status](https://ci.appveyor.com/api/projects/status/lwv9oaidy45vj7wa?svg=true)](https://ci.appveyor.com/project/fat0n/net-auto4)
