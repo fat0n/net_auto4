@@ -8,10 +8,7 @@
       "name",
       "number",
       "balance",
-      "currency": {
-        "type": "string",
-        "enum": ["RUB", "USD"]
-      }
+      "currency"
     ],
     "additionalProperties": false, 
     "properties": { 
@@ -31,6 +28,7 @@
       },
       "currency": {
         "type": "string" 
+	"enum": ["RUB", "USD"]
       }
     }
   }
